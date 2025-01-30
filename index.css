@@ -1,0 +1,75 @@
+.one{
+    border-radius: 8px;
+    margin: auto;
+
+
+}
+.two{
+    position: relative;
+    width: 90%;
+    height: 300px;
+    background: black;
+    display: inline-flex;
+    margin-top: 3%;
+    border-radius: 5%;
+}
+.three{
+    position: relative;
+    width: 40%;
+    height: 280px;
+    background-color: green;
+    border-radius: 8px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.four{
+    position: relative;
+    width: 53%;
+    height: 280px;
+    background-color: blue;
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 8px;
+    display: block;
+}
+.one2{
+    position: absolute;
+    background-color: purple;
+    border-radius: 8px;
+    bottom: 5%;
+    color: white;
+    padding: 2%;
+    border: none;
+}
+.wd{
+    margin-top: 2%;
+    font-size: 20px;
+    margin: auto;
+}
+.wd2{
+    text-align: left;
+    padding: 2%;
+    font-size: 16px;
+}
+.three2{
+    position: relative;
+    background-color: black;
+    width: 90%;
+    height: 230px;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-radius: 5px;
+    display: inline-flex;
+    overflow-x: auto;
+}
+.three22{
+    position: relative;
+    background-color: yellow;
+    flex-shrink: 0;
+    margin: auto;
+    width: 30%;
+    height: 90%;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
